@@ -1,4 +1,4 @@
-# final
+# GUI C++ GPA CALCULATOR
 ![image](https://github.com/user-attachments/assets/fa26913c-da97-4fa5-88a3-1c163c932954)
 
 
