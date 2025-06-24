@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/04/17 15:58:18.000.921,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2025/04/17 15:58:19.000.287,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2025/04/17 15:58:51.000.226,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2025/04/17 15:58:51.000.308,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2025/04/17 15:59:18.000.257,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2025/04/17 15:59:30.000.010,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\main.dfm=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2025/04/17 15:59:30.000.009,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\main.cpp=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2025/04/17 15:59:30.000.010,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\main.h=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit3.h</Transaction>
+    <Transaction>2025/04/17 15:59:35.000.869,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\r.cpp=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2025/04/17 15:59:35.000.869,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\r.dfm=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2025/04/17 15:59:35.000.869,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\r.h=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit4.h</Transaction>
+    <Transaction>2025/04/17 15:59:49.000.549,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2025/04/17 15:59:58.000.357,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\l.dfm=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2025/04/17 15:59:58.000.357,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\l.h=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit5.h</Transaction>
+    <Transaction>2025/04/17 15:59:58.000.357,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\l.cpp=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2025/04/17 16:10:52.000.721,C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>2025/04/17 16:11:32.000.182,C:\Users\DELL\Documents\Embarcadero\Studio\main.cpp=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\main.cpp</Transaction>
+    <Transaction>2025/04/17 16:11:32.000.182,C:\Users\DELL\Documents\Embarcadero\Studio\main.h=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\main.h</Transaction>
+    <Transaction>2025/04/17 16:11:32.000.182,C:\Users\DELL\Documents\Embarcadero\Studio\main.dfm=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\main.dfm</Transaction>
+    <Transaction>2025/04/17 16:11:36.000.582,C:\Users\DELL\Documents\Embarcadero\Studio\r.dfm=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\r.dfm</Transaction>
+    <Transaction>2025/04/17 16:11:36.000.582,C:\Users\DELL\Documents\Embarcadero\Studio\r.cpp=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\r.cpp</Transaction>
+    <Transaction>2025/04/17 16:11:36.000.582,C:\Users\DELL\Documents\Embarcadero\Studio\r.h=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\r.h</Transaction>
+    <Transaction>2025/04/17 16:11:39.000.150,C:\Users\DELL\Documents\Embarcadero\Studio\l.cpp=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\l.cpp</Transaction>
+    <Transaction>2025/04/17 16:11:39.000.150,C:\Users\DELL\Documents\Embarcadero\Studio\l.h=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\l.h</Transaction>
+    <Transaction>2025/04/17 16:11:39.000.150,C:\Users\DELL\Documents\Embarcadero\Studio\l.dfm=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\l.dfm</Transaction>
+    <Transaction>2025/04/19 21:27:31.000.203,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>2025/04/19 21:31:26.000.683,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit7.cpp</Transaction>
+    <Transaction>2025/04/25 16:15:02.000.880,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit8.cpp</Transaction>
+    <Transaction>2025/04/25 16:25:06.000.046,=C:\Users\DELL\Documents\Embarcadero\Studio\Projects\Unit8.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\Studio"/>
+    <File Path="..\l.cpp"/>
+    <File Path="..\l.cpp"/>
+    <File Path="..\l.dfm"/>
+    <File Path="..\l.h"/>
+    <File Path="..\main.cpp"/>
+    <File Path="..\main.cpp"/>
+    <File Path="..\main.dfm"/>
+    <File Path="..\main.h"/>
+    <File Path="..\r.cpp"/>
+    <File Path="..\r.cpp"/>
+    <File Path="..\r.dfm"/>
+    <File Path="..\r.h"/>
+    <File Path="Project2.cpp"/>
+    <File Path="Project2PCH1.h"/>
+    <File Path="Unit6.cpp"/>
+    <File Path="Unit6.cpp"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit6.h"/>
+    <File Path="Unit7.cpp"/>
+    <File Path="Unit7.cpp"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit7.h"/>
+    <File Path="Unit8.cpp"/>
+    <File Path="Unit8.cpp"/>
+    <File Path="Unit8.dfm"/>
+    <File Path="Unit8.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
